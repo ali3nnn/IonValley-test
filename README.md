@@ -1,5 +1,3 @@
-# IonValley-test
-
 # Here is a piece of code you can write in Chrome DevTool in order to download the canvas that a page is showing
 
 # How to download canvas
